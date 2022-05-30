@@ -32,7 +32,9 @@
 <h2> OS </h2>
 <p dir="auto">
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/41281b9a32f13ac5b9d41ed9bae12c0de662f948f9bf59fd19df354fe49af146/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f57696e646f77732d3030373844363f7374796c653d666f722d7468652d6261646765266c6f676f3d77696e646f7773266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/41281b9a32f13ac5b9d41ed9bae12c0de662f948f9bf59fd19df354fe49af146/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f57696e646f77732d3030373844363f7374796c653d666f722d7468652d6261646765266c6f676f3d77696e646f7773266c6f676f436f6c6f723d7768697465" alt="Windows" data-canonical-src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&amp;logo=windows&amp;logoColor=white" style="max-width: 100%;"></a>
-  
+
+<h2> Stats </h2>
+<a href="https://git.io/streak-stats" rel="nofollow"><img src="https://camo.githubusercontent.com/20b0728ad4caa0136d2fc7f67be405e25157f76f9fad598ab6eb45ad46cfdd40/687474703a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d3f757365723d6974735a656430267468656d653d6461726b266261636b67726f756e643d303030303030" alt="GitHub Streak" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=ImBored&amp" style="max-width: 100%;"></a>
 
 <h2> My linkedin </h2> 
 <a href="https://www.linkedin.com/in/nguyenhoangbaokhoi" rel="nofollow"><img src="https://camo.githubusercontent.com/e0278098417dddf9727cfee70a5eb84af38a20705b3bded56cf91cb5feb29d7d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d626c75653f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="LinkedIn Badge" data-canonical-src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a> </p>
