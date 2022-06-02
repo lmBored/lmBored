@@ -1,6 +1,6 @@
 <p align="center"><img src="https://komarev.com/ghpvc/?username=ImBored&style=flat-square&color=blue" alt=""></p>
 
-<h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello there (。・・)ノ </h1>
+<h1>Hello there (。・・)ノ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> </h1>
 
 <p dir="auto">You can call me Bored, since i have nothing to do than staring at my laptop screen ᓚᘏᗢ </p>
 
