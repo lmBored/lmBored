@@ -1,6 +1,3 @@
-<p align="center"><img src="https://komarev.com/ghpvc/?username=ImBored&style=flat-square&color=blue" alt=""></p>
-
-
 <h1>Hello there (。・・)ノ</h1>
 
 <p dir="auto">You can call me Bored, since i have nothing to do than staring at my laptop screen ᓚᘏᗢ </p>
