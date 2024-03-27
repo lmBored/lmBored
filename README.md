@@ -16,10 +16,12 @@
 
 
 ---
-<p align="center"><
+<p align="center">
+  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lmBored)](https://github.com/anuraghazra/github-readme-stats)
 <br />
 <a href="https://git.io/streak-stats" rel="nofollow"><img src="https://github-readme-streak-stats.herokuapp.com/?user=lmBored" style="max-width: 100%;"></a>
+
 </p>
 ---
 
