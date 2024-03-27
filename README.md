@@ -15,12 +15,6 @@
   <p>                                                                                   </p>
 </ul>
 
-
----
-  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lmBored)](https://github.com/anuraghazra/github-readme-stats)
-<br />
-
 ---
 
 <h3 dir="auto">✨ Programming languages </h3> 
