@@ -4,8 +4,6 @@
 
 <p dir="auto">You can call me Bored, since i have nothing to do than staring at my laptop screen ᓚᘏᗢ </p>
 
-<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
-
 ---
 
 <h3 dir="auto">📖 About me </h3> 
@@ -18,7 +16,12 @@
 
 
 ---
-
+<p align="center"><
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lmBored)](https://github.com/anuraghazra/github-readme-stats)
+<br />
+<a href="https://git.io/streak-stats" rel="nofollow"><img src="https://github-readme-streak-stats.herokuapp.com/?user=lmBored" style="max-width: 100%;"></a>
+</p>
+---
 
 <h3 dir="auto">✨ Programming languages </h3> 
 <p dir="auto">
