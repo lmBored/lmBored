@@ -1,6 +1,6 @@
 <p align="center"><img src="https://komarev.com/ghpvc/?username=ImBored&style=flat-square&color=blue" alt=""></p>
 
-<h1>Hello there (。・・)ノ <img data-target="animated-image.replacedImage" alt="68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" class="AnimatedImagePlayer-animatedImage" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" style="width: 40px; display: block; opacity: 1;"> </h1>
+<h1>Hello there (。・・)ノ</h1>
 
 <p dir="auto">You can call me Bored, since i have nothing to do than staring at my laptop screen ᓚᘏᗢ </p>
 
@@ -42,14 +42,6 @@
 <h3 dir="auto">💻 OS </h3>
 <p dir="auto">
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/41281b9a32f13ac5b9d41ed9bae12c0de662f948f9bf59fd19df354fe49af146/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f57696e646f77732d3030373844363f7374796c653d666f722d7468652d6261646765266c6f676f3d77696e646f7773266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/41281b9a32f13ac5b9d41ed9bae12c0de662f948f9bf59fd19df354fe49af146/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f57696e646f77732d3030373844363f7374796c653d666f722d7468652d6261646765266c6f676f3d77696e646f7773266c6f676f436f6c6f723d7768697465" alt="Windows" data-canonical-src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&amp;logo=windows&amp;logoColor=white" style="max-width: 100%;"></a>
-
----
-
-<h3 dir="auto">☄ Stats </h3>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ImBored)](https://github.com/anuraghazra/github-readme-stats)
-<br />
-<a href="https://git.io/streak-stats" rel="nofollow"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ImBored&amp" style="max-width: 100%;"></a>
 
 
 ---
