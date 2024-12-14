@@ -9,3 +9,6 @@
 -->
 
 <a href="https://github.com/LmBored"><img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=LmBored&theme=ambient_gradient&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
+
+<img width="1453" alt="image" src="https://github.com/user-attachments/assets/bf89ed99-965c-487d-b0aa-296d822c898b" />
+
