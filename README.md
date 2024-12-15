@@ -13,4 +13,5 @@
 
 ### Rank 11th worldwide
 <img width="1453" alt="image" src="https://github.com/user-attachments/assets/bf89ed99-965c-487d-b0aa-296d822c898b" />
+<!-- <img width="1453" alt="image" src="rank11aoc.png" /> -->
 
