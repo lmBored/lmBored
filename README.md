@@ -29,6 +29,11 @@
 ### Streak stats
 <a href="https://github.com/LmBored"><img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=LmBored&theme=chartreuse-dark&date_format=M%20j%5B%2C%20Y%5D&currStreakNum=ff3068&currStreakLabel=ff3068&fire=ff3068"></a>
 
+### Contributions
+![lmBored's Contributions](https://github.pumbas.net/api/contributions/lmBored?colour=DF9149&bgColour=161B22&dotColour=D04E4E)
+![lmBored's Contributions](https://github.pumbas.net/api/contributions/lmBored?colour=5dfc4b&bgColour=161B22&dotColour=fcfc4b)
+
+
 |Github Stats<br>![](https://my-github-stats-deployment-weld.vercel.app/api?username=lmBored&show_icons=true&theme=chartreuse-dark)|Github Streaks<br>![](https://github-readme-streak-stats.herokuapp.com/?user=LmBored&theme=chartreuse-dark&date_format=M%20j%5B%2C%20Y%5D&currStreakNum=ff3068&currStreakLabel=ff3068&fire=ff3068)|
 |:-:|:-:|
 
@@ -39,15 +44,30 @@
 <a href="https://github.com/LmBored"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=LmBored&theme=ambient_gradient&title_color=ff3068?"></a>
 -->
 
-<p>
-<strong>Github Stats + Streak Stats</strong>
-  <br><br>
-  <img src="https://my-github-stats-deployment-weld.vercel.app/api?username=lmBored&show_icons=true&theme=chartreuse-dark" alt="lmBored's GitHub stats"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=LmBored&theme=chartreuse-dark&date_format=M%20j%5B%2C%20Y%5D&currStreakNum=ff3068&currStreakLabel=ff3068&fire=ff3068">
-</p>
+<table width="100%" style="border:0px solid white; width:100%;">
+  <tr>
+    <th style="border: none;">Github Stats</th>
+    <th style="border: none;">Github Streaks</th>
+  </tr>
+  <tr>
+    <td width="33%" style="border:0px; width:33.33%">
+      <img src="https://my-github-stats-deployment-weld.vercel.app/api?username=lmBored&show_icons=true&theme=chartreuse-dark" alt="GitHub Stats">
+    </td>
+    <td width="33%" style="border:0px; width:33.33%">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=LmBored&theme=chartreuse-dark&date_format=M%20j%5B%2C%20Y%5D&currStreakNum=ff3068&currStreakLabel=ff3068&fire=ff3068" alt="GitHub Streaks">
+    </td>
+  </tr>
+  <tr>
+    <th width="33%" style="border:0px; width:33.33%" colspan="2">Contributions</th>
+  </tr>
+  <tr>
+    <td width="33%" style="border:0px; width:33.33%" colspan="2" align="center">
+      <img src="https://github.pumbas.net/api/contributions/lmBored?colour=5dfc4b&bgColour=161B22&dotColour=fcfc4b" alt="Contributions">
+    </td>
+  </tr>
+</table>
 
-### Contributions
-<!-- ![lmBored's Contributions](https://github.pumbas.net/api/contributions/lmBored?colour=DF9149&bgColour=161B22&dotColour=D04E4E) -->
-![lmBored's Contributions](https://github.pumbas.net/api/contributions/lmBored?colour=5dfc4b&bgColour=161B22&dotColour=fcfc4b)
+
 
 ### Rank 11th worldwide
 <img width="1453" alt="image" src="https://github.com/user-attachments/assets/bf89ed99-965c-487d-b0aa-296d822c898b" />
