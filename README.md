@@ -8,6 +8,9 @@
 <a href="https://github.com/LmBored"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=LmBored&theme=ambient_gradient&title_color=ff3068?"></a>
 -->
 
+### Github stats
+![lmBored's GitHub stats](https://my-github-stats-deployment-weld.vercel.app/api?username=lmBored&show_icons=true&theme=chartreuse-dark)
+
 ### Streak stats
 <a href="https://github.com/LmBored"><img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=LmBored&theme=chartreuse-dark&date_format=M%20j%5B%2C%20Y%5D&currStreakNum=ff3068&currStreakLabel=ff3068&fire=ff3068"></a>
 
