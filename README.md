@@ -33,24 +33,12 @@
 <a href="https://github.com/LmBored"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=LmBored&theme=ambient_gradient&title_color=ff3068?"></a>
 -->
 
-<p align="center" style="display: flex; justify-content: center; flex-wrap: nowrap; text-align: center;">
-  <div style="flex: 1; min-width: 180px;">
-    <h3>GitHub Stats</h3>
-    <img 
-      src="https://my-github-stats-deployment-weld.vercel.app/api?username=lmBored&show_icons=true&theme=chartreuse-dark" 
-      alt="lmBored's GitHub stats" 
-      style="width: 100%; height: auto;">
-  </div>
-  <div style="flex: 1; min-width: 180px;">
-    <h3>GitHub Streaks</h3>
-    <img 
-      src="https://github-readme-streak-stats.herokuapp.com/?user=LmBored&theme=chartreuse-dark&date_format=M%20j%5B%2C%20Y%5D&currStreakNum=ff3068&currStreakLabel=ff3068&fire=ff3068" 
-      alt="Streak Stats" 
-      style="width: 100%; height: auto;">
-  </div>
+<p align="left">
+<strong>Github Stats + Streak Stats</strong>
+  <br><br>
+  <img src="https://my-github-stats-deployment-weld.vercel.app/api?username=lmBored&show_icons=true&theme=chartreuse-dark" alt="lmBored's GitHub stats" style="height: 180px; width: auto">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LmBored&theme=chartreuse-dark&date_format=M%20j%5B%2C%20Y%5D&currStreakNum=ff3068&currStreakLabel=ff3068&fire=ff3068" alt="Streak Stats" style="height: 180px; width: auto;">
 </p>
-
-
 
 ### Contributions
 <!-- ![lmBored's Contributions](https://github.pumbas.net/api/contributions/lmBored?colour=DF9149&bgColour=161B22&dotColour=D04E4E) -->
