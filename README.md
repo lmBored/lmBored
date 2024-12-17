@@ -8,8 +8,8 @@
 <a href="https://github.com/LmBored"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=LmBored&theme=ambient_gradient&title_color=ff3068?"></a>
 -->
 
-### Gradient streak stats
-<a href="https://github.com/LmBored"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=LmBored&theme=chartreuse-dark&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
+### Streak stats
+<a href="https://github.com/LmBored"><img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=LmBored&theme=chartreuse-dark&date_format=M%20j%5B%2C%20Y%5D&currStreakNum=ff3068&currStreakLabel=ff3068&fire=ff3068"></a>
 
 ### Rank 11th worldwide
 <img width="1453" alt="image" src="https://github.com/user-attachments/assets/bf89ed99-965c-487d-b0aa-296d822c898b" />
