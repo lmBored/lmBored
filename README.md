@@ -36,8 +36,8 @@
 <p align="left">
 <strong>Github Stats + Streak Stats</strong>
   <br><br>
-  <img src="https://my-github-stats-deployment-weld.vercel.app/api?username=lmBored&show_icons=true&theme=chartreuse-dark" alt="lmBored's GitHub stats" style="height: 150px; width: auto; margin-right: 5px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LmBored&theme=chartreuse-dark&date_format=M%20j%5B%2C%20Y%5D&currStreakNum=ff3068&currStreakLabel=ff3068&fire=ff3068" alt="Streak Stats" style="height: 150px; width: auto;">
+  <img src="https://my-github-stats-deployment-weld.vercel.app/api?username=lmBored&show_icons=true&theme=chartreuse-dark" alt="lmBored's GitHub stats" style="height: 180px; width: auto">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LmBored&theme=chartreuse-dark&date_format=M%20j%5B%2C%20Y%5D&currStreakNum=ff3068&currStreakLabel=ff3068&fire=ff3068" alt="Streak Stats" style="height: 180px; width: auto;">
 </p>
 
 
