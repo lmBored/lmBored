@@ -44,6 +44,24 @@
 <a href="https://github.com/LmBored"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=LmBored&theme=ambient_gradient&title_color=ff3068?"></a>
 -->
 
+
+
+
+
+
+
+
+
+## Rank 11th worldwide
+<img width="1453" alt="image" src="https://github.com/user-attachments/assets/bf89ed99-965c-487d-b0aa-296d822c898b" />
+<!-- <img width="1453" alt="image" src="rank11aoc.png" /> -->
+
+<br>
+
+---
+
+<br>
+
 <table width="100%" style="border:0px solid white; width:100%;">
   <tr>
     <th style="border: none;">Github Stats</th>
@@ -66,14 +84,3 @@
     </td>
   </tr>
 </table>
-
-<br>
-
----
-
-<br>
-
-## Rank 11th worldwide
-<img width="1453" alt="image" src="https://github.com/user-attachments/assets/bf89ed99-965c-487d-b0aa-296d822c898b" />
-<!-- <img width="1453" alt="image" src="rank11aoc.png" /> -->
-
