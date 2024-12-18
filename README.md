@@ -72,7 +72,7 @@
       <img src="https://my-github-stats-deployment-weld.vercel.app/api?username=lmBored&show_icons=true&theme=chartreuse-dark" alt="GitHub Stats">
     </td>
     <td width="33%" style="border:0px; width:33.33%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=LmBored&theme=chartreuse-dark&date_format=M%20j%5B%2C%20Y%5D&currStreakNum=ff3068&currStreakLabel=ff3068&fire=ff3068" alt="GitHub Streaks">
+      <img src="https://streak-stats.demolab.com/?user=LmBored&theme=chartreuse-dark&date_format=M%20j%5B%2C%20Y%5D&currStreakNum=ff3068&currStreakLabel=ff3068&fire=ff3068" alt="GitHub Streaks">
     </td>
   </tr>
   <tr>
