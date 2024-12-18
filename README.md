@@ -69,7 +69,7 @@
   </tr>
   <tr>
     <td width="33%" style="border:0px; width:33.33%">
-      <img src="https://my-github-stats-deployment-weld.vercel.app/api?username=lmBored&show_icons=true&theme=chartreuse-dark" alt="GitHub Stats">
+      <img src="https://my-github-stats-deployment-weld.vercel.app/api?username=lmBored&show_icons=true&theme=chartreuse-dark&custom_title=lmBored%27s%20Ultimate%20GitHub%20Stats&show_owner=true" alt="GitHub Stats">
     </td>
     <td width="33%" style="border:0px; width:33.33%">
       <img src="https://my-github-readme-streak-stats-deployment.vercel.app/?user=LmBored&theme=chartreuse-dark&date_format=M%20j%5B%2C%20Y%5D&currStreakNum=ff3068&currStreakLabel=ff3068&fire=ff3068" alt="GitHub Streaks">
