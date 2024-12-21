@@ -50,13 +50,13 @@
 
 
 
-## Rank 26th worldwide AoC Day 21
+## Rank 26th worldwide AoC_2024 Day 21
 <img width="1453" alt="image" src="https://github.com/user-attachments/assets/3964b949-5ebb-41dd-a34b-d960d061d2ec" />
 <!-- <img width="1453" alt="image" src="rank11aoc.png" /> -->
 
 <br>
 
-## Rank 11th worldwide AoC Day 11
+## Rank 11th worldwide AoC_2024 Day 14
 <img width="1453" alt="image" src="https://github.com/user-attachments/assets/bf89ed99-965c-487d-b0aa-296d822c898b" />
 <!-- <img width="1453" alt="image" src="rank11aoc.png" /> -->
 
