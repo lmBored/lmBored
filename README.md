@@ -48,7 +48,7 @@
 
 
 
-# AoC 2024
+
 
 ## Rank 26th worldwide AoC_2024 Day 21
 <details>
@@ -77,6 +77,7 @@
 
 ---
 
+## My (nooby) stats
 <br>
 
 <table width="100%" style="border:0px solid white; width:100%;">
