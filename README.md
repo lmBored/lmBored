@@ -48,29 +48,32 @@
 
 
 
+## My AoC 2024
 
+<details>
+<summary>Take a peek...</summary>
 
-## Rank 26th worldwide AoC_2024 Day 21
+### Day 14: Rank 11th
+
 <details>
 <summary>See more...</summary>
-<h3>Idea</h3>
+<h5>Idea</h5>
+<p>For part 1, count the robots in quadrants so the robots on the midlines are ignored. For part 2, I brute-forced checking if the robots' positions match the Christmas tree pattern by comparing the positions to the pattern's shape.</p>
+<h5>Rank</h5>
+<img width="1453" alt="image" src="https://github.com/user-attachments/assets/bf89ed99-965c-487d-b0aa-296d822c898b" />
+<!-- <img width="1453" alt="image" src="rank11aoc.png" /> -->
+</details>
+
+### Day 21: Rank 26th 
+<details>
+<summary>See more...</summary>
+<h5>Idea</h5>
 <p>Recursive approach with memoization.</p>
-<h3>Rank</h3>
+<h5>Rank</h5>
 <img width="1453" alt="image" src="https://github.com/user-attachments/assets/3964b949-5ebb-41dd-a34b-d960d061d2ec" />
 <!-- <img width="1453" alt="image" src="rank11aoc.png" /> -->
 </details>
 
-<br>
-
-## Rank 11th worldwide AoC_2024 Day 14
-
-<details>
-<summary>See more...</summary>
-<h3>Idea</h3>
-<p>For part 1, count the robots in quadrants so the robots on the midlines are ignored. For part 2, I brute-forced checking if the robots' positions match the Christmas tree pattern by comparing the positions to the pattern's shape.</p>
-<h3>Rank</h3>
-<img width="1453" alt="image" src="https://github.com/user-attachments/assets/bf89ed99-965c-487d-b0aa-296d822c898b" />
-<!-- <img width="1453" alt="image" src="rank11aoc.png" /> -->
 </details>
 
 <br>
